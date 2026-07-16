@@ -1,0 +1,11 @@
+nft-project/
+├── contracts/
+│   └── MyNFT.sol
+├── scripts/
+│   └── deploy.js
+├── test/
+│   └── MyNFT.js
+├── hardhat.config.js
+├── package.json
+├── .gitignore
+└── README.md
